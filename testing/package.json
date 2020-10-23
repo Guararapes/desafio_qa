@@ -1,0 +1,20 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true,
+    "preset": "jest-puppeteer"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "jest": "^26.6.0",
+    "jest-puppeteer": "^4.4.0",
+    "puppeteer": "^5.3.1"
+  }
+}
