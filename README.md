@@ -2,26 +2,33 @@
 
 Bem vindos ao desafio de QA guararapes, nessa fase precisamos validar seus conhecimentos em nossa Stack, leia toda a documentação abaixo para realizar.
 
-## Esqueletos
+## Modelos de exemplo
 
-O candidato precisa criar os testes utilizando o esqueleto fornecido (encontra-se na pasta testing), porém esteja a vontade para inovar e pensar fora da caixa, todas as ferramentas citadas abaixo estão inclusas no esqueleto. Não é preciso fazer um fork desse projeto, porém favor entregar um projeto fechado na [gitlab](http://gitlab.com) (para que outros candidatos não vizualizem a sua solução).
+Na pasta testing temos um modelo de exemplos em NodeJS com Jest + Puppeteer + Axios, porém, esteja a vontade para user a stack que preferir contanto que contemple as seguintes linguagens: Java, NodeJS, Python e C#, todas as ferramentas citadas abaixo estão inclusas no exemplo. Não é preciso fazer um fork desse projeto, porém, favor entregar um projeto fechado na [gitlab](http://gitlab.com) (para que outros candidatos não vizualizem a sua solução).
 
-## Linguagens
+## Linguagens que podem ser usadas
 
 * Javascript / [NodeJS](https://nodejs.org/en/) ECMA 6+
+* Java 11+
+* Python 3.7+
+* C# .net core
 
-## Libs
+## Libs inclusas nos exemplos
 
 * [Jest](https://jestjs.io/docs/en/getting-started.html)  - Biblioteca de testes para Javascript
 * [Puppeteer](https://github.com/puppeteer/puppeteer) - Versão Headless do chrome que pode ser usado para webcrawling e também para testes de frontend em um ambiente não gráfico
 * [Jest-Puppeteer](https://jestjs.io/docs/en/puppeteer) - Junção do Jester com o puppeteer para criar uma suite de testes funcionais em javascript utilizando o pode do jester e puppeteer
 * [Axios](https://github.com/axios/axios) - Cliente HTTP para a linguagem Javascript / NodeJS
 
-## Tools
+## Ferramentas inclusas no exemplo
 
 * [Npm](https://www.npmjs.com/) - Package manager do nodejs
 * [Nginx](https://www.nginx.com/) - Servidor web e load balancer open source
 * [Java 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - Linguagem de programação multiplataforma de alto desempenho
+
+## Referências das ferramentas inclusas no exemplo
+* [Programação assíncrona com promises](https://www.luiztools.com.br/post/programacao-assincrona-em-nodejs-callbacks-e-promises/?gclid=CjwKCAjw_sn8BRBrEiwAnUGJDg62JV4zz3ib3xS9_khlv0ju4O2PM8PhKNsihwrXe9gB8Y_oSUZMmRoCLLIQAvD_BwE)
+* [Entendendo o async/await](https://tableless.com.br/entendendo-o-async-e-o-await-em-javascript/)
 
 ## Passo 1
 
