@@ -3,3 +3,7 @@
 .nbproject
 **/node_modules
 **/**/*.log
+frontend/temp/*
+frontend/logs/*
+!frontend/logs/.gitkeep
+!frontend/temp/.gitkeep
