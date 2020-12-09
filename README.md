@@ -66,6 +66,7 @@ Após ser desenvolvido, o que foi entregue pelo desenvolvedor está contido nas 
 * Rode os sistemas rodando os bats fornecidos (run_backend.bat e run_front.bat)
 * Algum aviso de segurança do windows pode ocorrer, pois estará rodando o nginx (um arquivo .exe) desconhecido para o windows, pode ignorar o aviso tranquilamente.
 * Se estiver no linux, aconselho a instalar o nginx da forma recomendada de sua distro e jogar os arquivos do front na pasta html da nova instalação.
+* Ao rodar a api de backend, a documentação da api estará disponível em http://localhost:8080/swagger-ui.html
 
 ## Passo 3
 
